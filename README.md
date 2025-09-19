@@ -1,6 +1,6 @@
 # Atividade.Avaliativa01
 
-# Atividade Avaliativa 1051 - Usando Obrigatoriamente o IF e ELSE No Exercício - Inposto De Renda
+# Atividade Avaliativa 1051 - Usando Obrigatoriamente o IF e ELSE No Exercício - Imposto De Renda
 
 [codigoatv01.py](https://github.com/user-attachments/files/22429803/codigoatv01.py)
 
