@@ -10,4 +10,5 @@
 
 [codigoatv01.2.py](https://github.com/user-attachments/files/22429579/codigoatv01.2.py)
 
-<img width="1354" height="186" alt="Captura de tela 2025-09-19 114548" src="https://github.com/user-attachments/assets/6b335f5a-5976-4eac-b2ec-bddf902181ab" />
+<img width="1354" height="186" alt="print terminal atv 01 1061" src="https://github.com/user-attachments/assets/b886c3c1-da97-4566-9a6d-ef1873ccf8ea" />
+
